@@ -12,13 +12,12 @@
 
 <h2 align="center">My GitHub Stats</h2>
 
-<div style="display: flex; justify-content: flex-start; align-items: flex-start;">
-  <div style="margin-right: 20px; max-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=vvnva&show_icons=true&theme=dark" alt="Vera Ivanova's GitHub stats">
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvnva&theme=dark" alt="Vera Ivanova's streak stats"> 
-  </div>
-  <div style="margin-left: 20px;">
-    <img src="https://media.giphy.com/media/NbhiwA0C8THIv8KvG5/giphy.gif" alt="My GIF" width="200">
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vvnva&show_icons=true&theme=dark" alt="Vera Ivanova's GitHub stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vvnva&theme=dark" alt="Vera Ivanova's streak stats"> 
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://media.giphy.com/media/NbhiwA0C8THIv8KvG5/giphy.gif" alt="My GIF" width="200">
 </div>
