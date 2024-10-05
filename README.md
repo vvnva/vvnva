@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/vvnva" target="_blank">Vera Ivanova</a></h1>
 
 <p align="center">
-  <a href="https://github.com/vvnva-hash?tab=followers">
+  <a href="https://github.com/vvnva">
     <img src="https://img.shields.io/badge/Follow%20me-blue?style=flat&logo=github" alt="Follow me on GitHub" />
   </a>
   &nbsp; 
