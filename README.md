@@ -21,3 +21,6 @@
 <div align="center" style="margin-top: 20px;">
   <img src="https://media.giphy.com/media/NbhiwA0C8THIv8KvG5/giphy.gif" alt="My GIF" width="200">
 </div>
+
+
+![Граф](https://drive.google.com/uc?export=view&id=125f5x8xe63qahpkOmFqHY7gQwGYG9TQe)
